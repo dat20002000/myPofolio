@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>Circle</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard" sketch:type="MSArtboardGroup" transform="translate(-682.000000, -279.000000)" fill="#000000">
+            <path d="M704,290 C704,296.075 699.075,301 693,301 C686.925,301 682,296.075 682,290 C682,283.925 686.925,279 693,279 C699.075,279 704,283.925 704,290" id="Circle" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
