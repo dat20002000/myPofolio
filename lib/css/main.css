@@ -66,7 +66,7 @@ a:hover {
     position: absolute;
     width: 100%;
     top: -140px;
-    height: 1180px;
+    height: 1150px;
     background: #00dbde; /* For browsers that do not support gradients */
     background: -webkit-linear-gradient(90deg, #00dbde, #fc00ff); /* For Safari 5.1 to 6.0 */
     background: -o-linear-gradient(90deg, #00dbde, #fc00ff); /* For Opera 11.1 to 12.0 */
@@ -499,13 +499,13 @@ a:hover {
 #our-services .container{
     background-color: #FFFFFF;
     border-radius: 15px;
-    height: 624px;
+    /*height: 624px;*/
     width: 100%;
     box-shadow: 5px 5px 25px 0px rgba(46,61,73,0.2);
     margin-bottom: 20px;
 }
 #our-services .container h2{
-    margin: 66px 0 65px 0;
+    margin: 66px 0 20px 0;
     color: #03d8df;
     font-size: 34px;
 }
@@ -514,7 +514,7 @@ a:hover {
     text-decoration: none;
 }
 .single-service {
-    margin: 30px 15px;
+    margin: 50px 15px;
 }
 .service-title {}
 .service-title img {

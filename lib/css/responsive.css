@@ -52,6 +52,18 @@
         line-height: 1.5em;
         /*text-shadow: 0 0 10px rgba(0, 0, 0, 0.3);*/
     }
+    .menu-button{
+        right: 45px;
+        top: 30px;
+    }
+    .main-nav .nav-items {
+        text-align: center;
+        margin-top: 15em;
+    }
+    .main-nav .social-links {
+        margin: 0 auto;
+        width: 38%;
+    }
     .pricing-info {
         display: block;
     }
@@ -70,15 +82,38 @@
     .single-our-works img {
         width: 100%;
     }
+    .single-our-works {
+        margin-right: 0px;
+    }
     .single-location {
         padding: 1rem 0;
+    }
+    .service-content {
+        margin-top: 40px;
     }
     .about-us-content h2 {
         padding-bottom: 20px;
     }
     .about-us-content p {
-        padding-right: 2rem;
-        padding-bottom: 3rem;
+        padding: 0 0 3rem 0;
+    }
+    .about-us-location .middle-row {
+        margin: auto;
+    }
+    .location-thumbnail {
+       margin: 0 auto;
+    }
+    .location-content {
+        text-align: center;
+    }
+    .footer .container div:last-child {
+        text-align: center;
+    }
+    #home-area .container {
+        margin-left: auto;
+    }
+    #about-us .container .first-last-row {
+        margin: auto;
     }
     #contact h2 {
         font-size: 2.5rem;
@@ -88,5 +123,8 @@
     }
     #newsletter input[type="email"] {
         font-size: 16px;
+    }
+    #img-bg {
+        display: none;
     }
 }
