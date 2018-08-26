@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10efe93b-ef8e-4608-8192-a60d1aec89b7" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/css/responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/js/main.js" afterDir="false" />
-    </list>
+    <list default="true" id="10efe93b-ef8e-4608-8192-a60d1aec89b7" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -38,8 +32,8 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="133" lean-forward="true" selection-start-line="133" selection-end-line="168" selection-end-column="1" />
+            <state relative-caret-position="311">
+              <caret line="127" column="22" lean-forward="true" selection-start-line="127" selection-start-column="22" selection-end-line="127" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -106,7 +100,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="2429" />
     <option name="y" value="34" />
     <option name="width" value="1010" />
@@ -177,15 +171,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535314927877</updated>
-      <workItem from="1535314930305" duration="8810000" />
+      <workItem from="1535314930305" duration="9080000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8810000" />
+    <option name="totallyTimeSpent" value="9080000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1096" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -246,8 +240,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="133" lean-forward="true" selection-start-line="133" selection-end-line="168" selection-end-column="1" />
+        <state relative-caret-position="311">
+          <caret line="127" column="22" lean-forward="true" selection-start-line="127" selection-start-column="22" selection-end-line="127" selection-end-column="22" />
         </state>
       </provider>
     </entry>
