@@ -864,3 +864,9 @@ footer .row {
     color: white;
     text-decoration: none;
 }
+
+/* MODAL
+================================================ */
+.modal-body div.row:not(:last-child){
+    margin-bottom: 10px;
+}

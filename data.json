@@ -1,0 +1,56 @@
+{
+  "1": {
+    "name": "FlowLabsSMU",
+    "date": "August 2017 – August 2017",
+    "projectDescription": "The bidding system for ASIA market.",
+    "responsibilities": "Designed and implemented the front page.",
+    "technologies": "HTML5, CSS3, Bootstrap.",
+    "teamSize": 1,
+    "role": "Front-End Developer"
+  },
+  "2": {
+    "name": "Gonection",
+    "date": "Jun 2017 – Jun 2017",
+    "projectDescription": "The startup team in IT Services offering outsourcing and solution forthe Bangkok market.",
+    "responsibilities": "Designed and implemented the front page. ",
+    "technologies": "HTML5, CSS3, Bootstrap.",
+    "teamSize": 1,
+    "role": "Front-End Developer"
+  },
+  "3": {
+    "name": "Smart Agriculture",
+    "date": "Jun 2016 – Dec 2016",
+    "projectDescription": "SmartAgri is software that manages applied agricultural technologies, from the seedling stage, down to the same as the collection and management of the plan. The system is built on the knowledge and experience of experts in the agricultural sector and relies on the application of new technologies including Internet events, Data Analysis and Cloud Computing.",
+    "responsibilities": "Designed cross-platform UI/UX according to customer requirements, create project structure, analyze GUI performance.",
+    "technologies": "HTML5, JavaScript, CSS, AngularJS, High Chart, NodeJS, Grunt. ",
+    "teamSize": 4,
+    "role": "Front-End - Supervisor "
+  },
+  "4": {
+    "name": "Predictive Maintenance",
+    "date": "May 2016 – Oct 2016",
+    "projectDescription": "PdMaint Projects allow convenient scheduling of corrective maintenance, and to prevent unexpected equipment failures. The key is 'the right information in the right time'. By knowing which equipment needs maintenance, maintenance work can be better planned (spare parts, people, etc.) and what would have been 'unplanned stops' are transformed to shorter and fewer 'planned stops', thus increasing plant availability. Other potential advantages include increased equipment lifetime, increased plant safety, fewer accidents with negative impact on environment, and optimized spare parts handling.",
+    "responsibilities": "Designed cross-platform UI/UX according to customer requirements, create project structure, analyze GUI performance.",
+    "technologies": "HTML5, JavaScript, CSS, AngularJS, High Chart, Angular Material, NodeJS, Grunt. ",
+    "teamSize": 6,
+    "role": "Front-End - Supervisor"
+  },
+  "5": {
+    "name": "Cloud Center Portal",
+    "date": "Jun 2015 – Apr 2016",
+    "projectDescription": "CC_DEV (Cloud Center Portal) which supports for interaction with ZyXEL’s devices in term of monitoring and configuring with 4 main parts: Cloud Control Portal, Access Point Site, Switch Site and Gateway Site.",
+    "responsibilities": "Designed Web UI/UX according to customer requirements, create controller and model to get API data from Back End team.",
+    "technologies": "HTML5, JavaScript, CSS, Less CSS, AngularJS, Google Map API v3, High Chart, Bootstrap, Python, Amazon Web service.",
+    "teamSize": 12,
+    "role": "Front-End - Developer"
+  },
+  "6": {
+    "name": "Next Bus Station (Moblie - WindowPhone)",
+    "date": "Jan 2015 – May 2015",
+    "projectDescription": "Tracking user location with GPS, set reminder, show bus-route information in map, search bus route/walking route, create bus route. Have parser individual for get data from default URL.",
+    "responsibilities": "Designed Web UI/UX according to customer requirements, create controller and model to get API data from Back End team.",
+    "technologies": " HTML 5, AJAX, JS, MS SQL, SQL Lite, WP 8.1 developer, Google Map API V3, Ping Map.",
+    "teamSize": 2,
+    "role": "Fullstack - Developer"
+  }
+}
