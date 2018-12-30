@@ -1,4 +1,4 @@
-This is Dat Nguyen portfolio /n
-Include all source files /n
+This is Dat Nguyen portfolio
+Include all source files
 Run only index.html to see the MAGIC!!!!
 
