@@ -64,7 +64,7 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+              <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -218,7 +218,7 @@
       <workItem from="1537504362512" duration="32000" />
       <workItem from="1544980850820" duration="17728000" />
       <workItem from="1545247729041" duration="3243000" />
-      <workItem from="1546199631269" duration="2777000" />
+      <workItem from="1546199631269" duration="2983000" />
     </task>
     <task id="LOCAL-00001" summary="refactor code">
       <created>1535509935583</created>
@@ -255,11 +255,25 @@
       <option name="project" value="LOCAL" />
       <updated>1546203714655</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update readme">
+      <created>1546203770926</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1546203770926</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update readme">
+      <created>1546203846429</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1546203846429</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34102000" />
+    <option name="totallyTimeSpent" value="34308000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -537,7 +551,7 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
         </state>
       </provider>
     </entry>
