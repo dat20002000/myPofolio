@@ -127,4 +127,15 @@
     #img-bg {
         display: none;
     }
+    /*our-team*/
+    .team-thumbnail img {
+        width: 100px;
+    }
+    /*menu*/
+    .main-nav .social-links {
+        display: inline;
+    }
+    .main-nav .social-links li:nth-child(1) {
+        margin-left: 165px;
+    }
 }
