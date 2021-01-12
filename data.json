@@ -49,8 +49,26 @@
     "date": "Jan 2015 – May 2015",
     "projectDescription": "Tracking user location with GPS, set reminder, show bus-route information in map, search bus route/walking route, create bus route. Have parser individual for get data from default URL.",
     "responsibilities": "Designed Web UI/UX according to customer requirements, create controller and model to get API data from Back End team.",
-    "technologies": " HTML 5, AJAX, JS, MS SQL, SQL Lite, WP 8.1 developer, Google Map API V3, Ping Map.",
+    "technologies": "HTML 5, AJAX, JS, MS SQL, SQL Lite, WP 8.1 developer, Google Map API V3, Ping Map.",
     "teamSize": 2,
     "role": "Fullstack - Developer"
+  },
+  "7": {
+    "name": "Oracle Engagement Cloud Support",
+    "date": "Jan 2020 - Present",
+    "projectDescription": "Providing Oracle Engagement Cloud support to Vandoren business. Manage and handle accounts, customer requirements, service requests, etc. Troubleshoot and debug problems appearing during testing phases. Configure CRM solution to meet business requirements using Groovy scripting language.",
+    "responsibilities": "Full stack Oracle Engagement Cloud implementation.",
+    "technologies": "Oracle Engagement/Sales Cloud, Oracle Field Service Cloud, Oracle Integration Cloud, Oracle BI EE.",
+    "teamSize": 4,
+    "role": "Oracle Cloud Developer"
+  },
+  "8": {
+    "name": "Oracle Engagement Cloud Support",
+    "date": "Nov 2019 - Nov 2020",
+    "projectDescription": "Providing Oracle Cloud CX support to Badger Daylighting business operations. Configure CRM solution to meet business requirements using Groovy scripting language. Participate in architecture design of the flow of services to ensure that it meets best practices of the framework.",
+    "responsibilities": "Full stack Oracle Engagement Cloud implementation.",
+    "technologies": "Oracle Engagement/Sales Cloud, Oracle Field Service Cloud, Oracle Integration Cloud, Oracle BI EE",
+    "teamSize": 4,
+    "role": "Oracle Cloud Developer"
   }
 }
